@@ -36,6 +36,11 @@ window.SUMMIT = {
   // Add resources like: { title: 'Session notes', description: 'A helpful takeaway.', url: 'assets/resources/session-notes.pdf' }
   resources: [
     {
+      title: 'Fine Arts 2027',
+      description: 'Vision video, devotional, district FAQs, and resources to start your Fine Arts season.',
+      url: 'https://ilsmonline.github.io/fine-arts-resource-hub/'
+    },
+    {
       title: 'ISM Resource List',
       description: 'Resources for children, youth, and young adult ministries.',
       url: 'https://o2o.to/i/ieMAuB'
