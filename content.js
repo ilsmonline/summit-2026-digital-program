@@ -36,9 +36,9 @@ window.SUMMIT = {
   // Add resources like: { title: 'Session notes', description: 'A helpful takeaway.', url: 'assets/resources/session-notes.pdf' }
   resources: [
     {
-      title: 'STL Missionary Resource',
-      description: 'Explore missionary stories and ways your students can help through Speed the Light.',
-      url: 'https://o2o.to/i/knVrGt'
+      title: 'ISM Resource List',
+      description: 'Resources for children, youth, and young adult ministries.',
+      url: 'https://o2o.to/i/ieMAuB'
     },
     {
       title: 'Fine Arts 2027',
@@ -46,9 +46,9 @@ window.SUMMIT = {
       url: 'https://ilsmonline.github.io/fine-arts-resource-hub/'
     },
     {
-      title: 'ISM Resource List',
-      description: 'Resources for children, youth, and young adult ministries.',
-      url: 'https://o2o.to/i/ieMAuB'
+      title: 'STL Missionary Resource',
+      description: 'Explore missionary stories and ways your students can help through Speed the Light.',
+      url: 'https://o2o.to/i/knVrGt'
     }
   ]
 };
