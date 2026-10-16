@@ -36,6 +36,11 @@ window.SUMMIT = {
   // Add resources like: { title: 'Session notes', description: 'A helpful takeaway.', url: 'assets/resources/session-notes.pdf' }
   resources: [
     {
+      title: 'STL Missionary Resource',
+      description: 'Explore missionary stories and ways your students can help through Speed the Light.',
+      url: 'https://o2o.to/i/knVrGt'
+    },
+    {
       title: 'Fine Arts 2027',
       description: 'Vision video, devotional, district FAQs, and resources to start your Fine Arts season.',
       url: 'https://ilsmonline.github.io/fine-arts-resource-hub/'
